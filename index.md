@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## JABULANI THWALA               
+                                       
+I am a very hard-working, disciplined person, particularly careful, through and accurate in my work.I always strive to produce results that precisely meet the established goals. I also enjoy doing extra-curricular activities to enhance my knowledge and skills.   
 
-You can use the [editor on GitHub](https://github.com/Jabulani901/MyOnlineCv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### PERSONAL DETAILS
 
 ```markdown
-Syntax highlighted code block
+ Date of Birth  : 18 August 1997
+ Tittle         : Mr
+ Identity Number: 9708185421087
+ Nationality    : South Africa
+ Home Language  : IsiZulu
+ Other Languages: English
+ Race           : African
+ Health         : Excellent
+ Disabilities   : None
+ Marital Status : Single
+ Children       : 1
+ Criminal Record: None.
+ 
+ **Education & Qualifications**
+ 
+- ND Information Technology : Software Development (Mangosuthu University of Technology)
+- Matric : (Matamzana Dube-High School)
 
-# Header 1
-## Header 2
-### Header 3
+**Technical Skills**
 
-- Bulleted
-- List
+1. Netbeans
+2. Visual Studio
+3. SQL Server (Stored Procedure)
+4. VS Code(Angular),Docker
+5. Java
+6. C#
+7. SQL
+8. Type Script
+9. Html
+10. VMware
+11. Windows Server '03','08','12'
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Employment
 
-### Jekyll Themes
+**Betting Entertainment Technologies (Sub-division of Hollywood Sportsbook)  May-2018- Present**
+• Graduate Trainee(Software Developer) :
+The Program was to give us exposure to technologies and give us the experience with developing we need to start off in a better position than most entryl-evel
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jabulani901/MyOnlineCv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**eThekwini Municipality (IT Department)  January 2017 - December 2017**
+• In-service Training(Systems Administrator) :
+The responsibilities was to Install,configuration,upgrading the systems,Database backups and systems checkups
 
-### Support or Contact
+### References
+  1. Mr Nivash Singh  ( B.E.T ) 
+     - Senior Developer/Mentor
+     - Contact  Number  : 072 111 6973
+     
+  2. Jared Jood
+     - Supervisor Systems Administrator ( eThekwin Municipality )
+     - Contact Number :  083 254 4289
+                    /  031 322 9063
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
